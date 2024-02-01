@@ -1,1 +1,1 @@
-# codingTest_JavaScript
+# codingTest
